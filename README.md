@@ -7,6 +7,7 @@ A list of useful AVR libraries and cool projects
 * [Trimmed down libcore for AVR](https://github.com/gergoerdi/rust-avr-libcore-mini) (_No longer necessary_)
 * [`atmega32u4`](https://github.com/Rahix/atmega32u4) & [`atmega32u4-hal`](https://github.com/Rahix/atmega32u4-hal) - `embedded-hal` crates for `atmega32u4`
 * [`arduino-leonardo`](https://github.com/Rahix/arduino-leonardo) - Board Support Crate for Arduino Leonardo
+* [`avr-hal`](https://github.com/Rahix/avr-hal) - general `embedded-hal` crate for AVR microcontrollers
 
 # Projects
 
